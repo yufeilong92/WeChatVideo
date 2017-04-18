@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\WeChatVideoRecordDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\movie_recorder_view.xml",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\WeChatVideoRecordDemo1\\app\\src\\main\\res\\layout\\movie_recorder_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_success.xml",
+        "source": "C:\\Users\\YFPHILPS\\Desktop\\WeChatVideoRecordDemo1\\app\\src\\main\\res\\layout\\activity_success.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_success.xml",
+        "source": "D:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\src\\main\\res\\layout\\activity_success.xml"
+    },
+    {
+        "merged": "D:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\movie_recorder_view.xml",
+        "source": "D:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\src\\main\\res\\layout\\movie_recorder_view.xml"
+    }
+]

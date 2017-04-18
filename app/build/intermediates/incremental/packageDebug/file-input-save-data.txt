@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Tue Apr 18 10:08:30 CST 2017
+2.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\movie_recorder_view.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+4.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=11
+0.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_success.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\bg_movie_add_shoot.png
+10.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\bg_movie_add_shoot_select.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\old_Project\\demo\\vodie\\WeChatVideoRecordDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

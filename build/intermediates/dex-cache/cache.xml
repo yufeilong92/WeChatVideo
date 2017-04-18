@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk_r24.4.1-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\old_Project\demo\vodie\WeChatVideoRecordDemo1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_0c919f940140cd8d1d43882d36134d02bdbbfde7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\old_Project\demo\vodie\WeChatVideoRecordDemo1\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\old_Project\demo\vodie\WeChatVideoRecordDemo1\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_89cc3daf294aa5745dbcee6b53342ba6d7d54482.jar" />
+    </item>
+
+</items>
